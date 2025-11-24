@@ -1,4 +1,4 @@
-package org.thetestingAcademy.ex02_Selenium_Locators;
+package org.thetestingAcademy.ex03_Selenium_Locators;
 
 import io.qameta.allure.Description;
 import io.qameta.allure.Owner;

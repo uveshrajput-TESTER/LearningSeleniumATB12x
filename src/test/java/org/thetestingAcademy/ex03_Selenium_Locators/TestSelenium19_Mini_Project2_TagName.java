@@ -1,4 +1,4 @@
-package org.thetestingAcademy.ex02_Selenium_Locators;
+package org.thetestingAcademy.ex03_Selenium_Locators;
 import org.thetestingAcademy.CommonToALL;
 import io.qameta.allure.*;
 import org.openqa.selenium.By;
