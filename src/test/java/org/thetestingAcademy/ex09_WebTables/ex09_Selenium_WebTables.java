@@ -1,4 +1,4 @@
-package org.thetestingAcademy.atb5x;
+package org.thetestingAcademy.ex09_WebTables;
 
 import io.qameta.allure.Owner;
 import org.openqa.selenium.By;

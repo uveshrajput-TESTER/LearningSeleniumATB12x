@@ -19,6 +19,12 @@ public class CommonToALL {
        WebDriver.Window Driver = driver.manage().window();
        Driver.maximize();
     }
+    public void openBrowser_Incogno(WebDriver driver,String url){
+        driver.get(url);
+        WebDriver.Window Driver = driver.manage().window();
+        Driver.maximize();
+    }
+
     public void closeBrowser(WebDriver driver){
 
         try {
